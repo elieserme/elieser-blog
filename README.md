@@ -1,5 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8ec719ad-c2f8-4529-b97d-e7561a9eaf33/deploy-status)](https://app.netlify.com/sites/delog-w3layouts/deploys) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=w3layouts">
-  <img src="https://img.shields.io/twitter/follow/w3layouts.svg?label=Follow%20@w3layouts" alt="Follow @w3layouts" />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/caea5402-305f-4809-9eda-8ae683b3c691/deploy-status)](https://app.netlify.com/sites/elieser/deploys) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=elieserme_br">
+  <img src="https://img.shields.io/twitter/follow/elieserme_br.svg?label=Follow%20@elieserme_br" alt="Follow @elieserme_br" />
 </a>
 
 # Delog - Blog for Developer and Designer
