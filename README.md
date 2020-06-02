@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/caea5402-305f-4809-9eda-8ae683b3c691/deploy-status)](https://app.netlify.com/sites/elieser/deploys) &nbsp;[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/<your-org>/<your-project>) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=elieserme_br">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/caea5402-305f-4809-9eda-8ae683b3c691/deploy-status)](https://app.netlify.com/sites/elieser/deploys) &nbsp;[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/elieserme/elieser-blog) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=elieserme_br">
   <img src="https://img.shields.io/twitter/follow/elieserme_br.svg?label=Follow%20@elieserme_br" alt="Follow @elieserme_br" />
 </a>
 
